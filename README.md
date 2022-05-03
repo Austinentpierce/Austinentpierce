@@ -1,5 +1,5 @@
-Hi 👋 My name is Austin Pierce
-Full Stack Software Developer
+Hi 👋 My name is Austin Pierce---
+Full Stack Software Developer---
 My background is in finance as I owned a business teaching people how to day-trade stocks. I wanted to get into code to improve my business with bots and an automatic trading bot. As I was learning certain languages I found that liked to code a lot more than I thought I did and decided to make a career out of it. I attended a full-stack coding BootCamp to further educate myself in the world of code. Shortly after graduating, I landed a job as a Front End Developer at InvestCloud, Inc. It worked perfectly with my knowledge of the finance industry trading stocks.* 🌍  I'm based in Tampa, Florida* 🧠  I'm learning React Native, Redux and Tailwind CSS
 
 ### Skills
